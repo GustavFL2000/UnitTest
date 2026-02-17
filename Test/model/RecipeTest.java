@@ -14,6 +14,7 @@ class RecipeTest {
     void setUp() {
         this.recipe = new Recipe("Chocolate chip cookies", 10);
         this.ingredient = null;
+
     }
 
     @Test
